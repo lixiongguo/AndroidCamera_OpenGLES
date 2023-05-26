@@ -1,7 +1,8 @@
 
 Android Camera2Video Sample
 ===========================
+DONE:
+1.Camrera2 api Demo
 
-This repo has been migrated to [github.com/android/camera][1]. Please check that repo for future updates. Thank you!
-
-[1]: https://github.com/android/camera
+TODO:
+1.1st JNI OPENGLES Effects Demo
